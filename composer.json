@@ -1,5 +1,5 @@
 {
-    "name": "ezsystems/ezplatform-solr-search-engine",
+    "name": "se7enxweb/ezplatform-solr-search-engine",
     "description": "Solr search engine implementation for eZ Platform",
     "license": "GPL-2.0-only",
     "type": "ezplatform-bundle",
