@@ -1,5 +1,5 @@
 {
-    "name": "ezsystems/ezplatform-solr-search-engine",
+    "name": "se7enxweb/ezplatform-solr-search-engine",
     "description": "Solr search engine implementation for eZ Platform",
     "license": "GPL-2.0-only",
     "type": "ezplatform-bundle",
@@ -11,8 +11,8 @@
         }
     ],
     "require": {
-        "php": "^7.1",
-        "ezsystems/ezpublish-kernel": "^7.5.8@dev",
+        "php": "^7.1 || ^8.1 || ^8.2",
+        "se7enxweb/ezpublish-kernel": "^7.5.8@dev",
         "netgen/query-translator": "^1.0.2"
     },
     "require-dev": {
