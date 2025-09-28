@@ -21,7 +21,7 @@
         "symfony/console": "^5.0",
         "symfony/config": "^5.0",
         "symfony/framework-bundle": "^5.0",
-        "symfony/http-client": "^5.4"
+        "symfony/http-client": "^5.4.45"
     },
     "require-dev": {
         "se7enxweb/doctrine-dbal-schema": "^1.0@dev",
